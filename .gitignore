@@ -1,0 +1,35 @@
+# Python & environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Datasets and predictions
+*.csv
+
+# Reports & LaTeX build artifacts
+*.pdf
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Plots & directories
+plots/
+BT2024024/
+BT2024024_Submission/
+generate_report.py
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
